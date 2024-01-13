@@ -1,0 +1,12 @@
+# output file
+out
+out.exe
+tempCodeRunnerFile.cpp
+tempCodeRunnerFile
+
+# vscode file
+.vscode/c_cpp_properties.json
+.vscode/tasks.json
+.vscode/settings.json
+
+# miscellenous
